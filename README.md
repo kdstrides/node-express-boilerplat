@@ -1,4 +1,4 @@
-# Chat application using node.js and angular.js
+## Boiler plat code to start coding with node and express.
 
 ### Getting started
 
@@ -7,8 +7,6 @@ $ git clone https://github.com/kdstrides/node-express-boilerplat.git
 $ npm i
 $ nodemon/node app.js
 ```
-
-### Boiler plat code to start coding with node and express.
 
 It includes below APis,
 
